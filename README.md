@@ -6,3 +6,5 @@ In this project I delved deeper into the study of the following technologies:
 - Handle Repository-type interfaces
 - ChatGPT API
 - JPQL
+- Spring Boot
+- MVC 
